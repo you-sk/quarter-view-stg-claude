@@ -2,6 +2,10 @@
 
 見下ろし型（クォータービュー）のシューティングゲームです。疑似3D効果により奥行き感のあるゲームプレイを実現しています。
 
+<img width="859" height="679" alt="image" src="https://github.com/user-attachments/assets/6957e3a2-37bf-470d-a443-e5f02593cbf0" />
+
+https://you-sk.github.io/quarter-view-stg-claude/
+
 ## 概要
 - **ジャンル**: シューティングゲーム
 - **視点**: クォータービュー（見下ろし型）
