@@ -78,7 +78,7 @@ https://you-sk.github.io/quarter-view-stg-claude/
 
 1. リポジトリをクローン
 ```bash
-git clone [repository-url]
+git clone https://github.com/you-sk/quarter-view-stg-claude.git
 cd quarter-view-stg
 ```
 
