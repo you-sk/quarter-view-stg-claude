@@ -1,0 +1,30 @@
+# IDEとエディタ
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OSファイル
+.DS_Store
+Thumbs.db
+
+# ログファイル
+*.log
+npm-debug.log*
+
+# 依存関係
+node_modules/
+
+# ビルド出力
+dist/
+build/
+
+# 環境変数
+.env
+.env.local
+.env.*.local
+
+# 一時ファイル
+*.tmp
+*.temp
